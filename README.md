@@ -24,4 +24,4 @@ python main.py
 
 ***
 Hope it helps!
-![Alt Text](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
+![Alt Text](https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif)
